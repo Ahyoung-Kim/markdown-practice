@@ -136,7 +136,7 @@ fixed | 뷰포트 | X
 # 원시 HTML(Raw HTML) : 마크다운에서 HTML 사용하는 것
 
 동해물과 <u>백두산</u>이 마르고 닳도록<br/>
-하느님이 보우하사 <span style="text-decoration: underline;">우리나라</span> 만세
+하느님이 보우하사 <span style="color: blue;">우리나라</span> 만세
 
 
 
